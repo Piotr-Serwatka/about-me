@@ -38,7 +38,7 @@
 
       <div class="col-12 col-md-6">
         <h2 class="h1">9 months of experience</h2>
-        <p>Im working as junior frontend developer for 9 months. Mainly im working with creating a new features and
+        <p>Im working as junior frontend developer for 1,5 year. Mainly im working with creating a new features and
           solving errors in maintenance departament based on Vue.js and JavaScript technology. </p>
       </div>
     </div>
