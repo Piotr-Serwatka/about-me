@@ -4,17 +4,20 @@
       <div class="col-12 col-md-6 d-flex justify-content-center flex-column">
         <div class="d-flex justify-content-center align-items-center flex-col flex-md-row flex-wrap">
           <h3 class="attribute-title">My skills</h3>
-          <div class="d-flex skill mx-4">
-            <img src="../../assets/skills/html5.png" alt="html5" class="img-fluid h-100 w-100">
+          <div class="d-flex skill mx-2">
+            <img src="../../assets/skills/html5.png" alt="html5" class="img-fluid h-75 w-75">
           </div>
-          <div class="skill mx-4">
-            <img src="../../assets/skills/css3.png" alt="css3" class="img-fluid h-100 w-100">
+          <div class="skill mx-2">
+            <img src="../../assets/skills/css3.png" alt="css3" class="img-fluid h-75 w-75">
           </div>
-          <div class="skill mx-4">
-            <img src="../../assets/skills/javascript.png" alt="javascript" class="img-fluid h-100 w-100">
+          <div class="skill mx-2">
+            <img src="../../assets/skills/bootstrap.png" alt="bootstrap" class="img-fluid h-75 w-75">
           </div>
-          <div class="skill mx-4">
-            <img src="../../assets/skills/vue.png" alt="vue" class="img-fluid h-100 w-100">
+          <div class="skill mx-2">
+            <img src="../../assets/skills/javascript.png" alt="javascript" class="img-fluid h-75 w-75">
+          </div>
+          <div class="skill mx-2">
+            <img src="../../assets/skills/vue.png" alt="vue" class="img-fluid h-75 w-75">
           </div>
         </div>
 
